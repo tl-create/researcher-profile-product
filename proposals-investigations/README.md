@@ -12,4 +12,4 @@ Conventions:
 
 | Folder | What it is | Status |
 |---|---|---|
-| [pp-guardrail-dashboard](pp-guardrail-dashboard/) | Guardrail rules, SQL queries and CEO summary dashboard for the recommender/Perfect Email pipeline | Imported 2026-08-19 from [tl-create/pp-guardrail-dashboard](https://github.com/tl-create/pp-guardrail-dashboard) |
+| [Global Filters: Recommenders](global-filters-recommenders/) | Guardrail rules, SQL queries and CEO summary dashboard for the recommender/Perfect Email pipeline | Imported 2026-08-19 from [tl-create/pp-guardrail-dashboard](https://github.com/tl-create/pp-guardrail-dashboard) |
